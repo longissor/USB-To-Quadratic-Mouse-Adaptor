@@ -16,6 +16,9 @@ The following will help you to decide if the joypad will work on this USD adapto
 
 Here are what you should look at.
 
+![GamePad-Test-Result%201.jpg](GamePad-Test-Result%201.jpg)
+![GamePad-Test-Result%202.jpg](GamePad-Test-Result%202.jpg)
+
 
 Of course, even if these all check out, thee is always a risk the Joypad may not work. Remember, we are connecting modern, often off brand devices to 30+ years old computers.
 
