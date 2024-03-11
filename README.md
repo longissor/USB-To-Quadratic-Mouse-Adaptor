@@ -1,5 +1,12 @@
 # USB-To-Quadratic-Mouse-Adaptor
+***
+#  This documentation is not updated anymore.
+#  Please visite https://www.16-32bit.eu/acsi2smt 
+***
 
+
+  
+  
 ## English  - (French below / Francais plus bas) 
 
 USB mouse (wired/wireless) adapter for Atari/Amiga (mode selection by switch).
